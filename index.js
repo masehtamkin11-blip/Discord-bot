@@ -23,4 +23,4 @@ client.on('interactionCreate', async interaction => {
     }
 });
 
-client.login(MTQ3MDY0MjgzMTAyOTk2NDg3Mw.GBqSQ7.ud7epWjFS_7Ec79SZWSajN6X5bUykMfX9mXbuQ);
+client.login('MTQ3MDY0MjgzMTAyOTk2NDg3Mw.GBqSQ7.ud7epWjFS_7Ec79SZWSajN6X5bUykMfX9mXbuQ');
